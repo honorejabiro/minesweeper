@@ -2,8 +2,6 @@
 
 This project is a logic-based AI implementation of the classic **Minesweeper** game, developed in Python. The AI uses **propositional logic**, **constraint propagation**, and **inference** to determine safe moves and identify mines — similar to how a human logically plays Minesweeper.
 
-This project was created as part of [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/).
-
 ---
 
 ## Project Overview
